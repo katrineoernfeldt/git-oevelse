@@ -1,3 +1,3 @@
 # git-oevelse
-This is my first repository on a branch
+this is my first repository on both branches
 I am looking forward to learning more.
